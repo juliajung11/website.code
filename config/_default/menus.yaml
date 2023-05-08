@@ -15,7 +15,7 @@ main:
     weight: 30
   - name: Service
     url: '#service'
-    weight: 40
+    weight: 50
   - name: Contact Me
     url: '#contact'
     weight: 60
