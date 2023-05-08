@@ -37,8 +37,5 @@ weight = 20
 <h2>Leadership</h2>
 
 <p> GPC Representative for  Graduate Association of Political Scientists (GAPS) at University of Missouri (2020-2021 Academic Year) </p>
-  
-<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a> (Currently Under Review) </p>
-
 
 </div>
