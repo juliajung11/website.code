@@ -20,19 +20,16 @@ weight = 50
 # example from Tyler
 # Ba, Heather K., & Coleman, Tyler. 2021. ["Deindustrialization and the Demand for Protection"](https://www.tyler-coleman.com/publication/bacoleman2021). _Business and Politics_, 23(2), 264-281. [doi:10.1017/bap.2020.17](https://doi.org/10.1017/bap.2020.17).
 
+#<div style="padding-left: 4em; text-indent: -4em;">
+#</div>
+
 
 +++
 <h2>Discussant</h2>
-
-<div style="padding-left: 4em; text-indent: -4em;">
-
 + Discussant for the Session of “Poster Session: Undergraduate Behavior and Methods” at the 80th of Annual Conference of Midwest Political Science Association, Chicago, IL, April 13, 2023.
 + Discussant for the Session of “Poster Session: Undergraduate Comparative Politics” at the 79th of Annual Conference of Midwest Political Science Association, Chicago, IL, April 7, 2022. </p>
 + Chair & Discussant for the Session of “Parties, Media, and Political Communication in Comparative Perspective” at the 78th of Annual Conference of Midwest Political Science Association, Virtual, April 21, 2021
 + Discussant for the Session of “China’s One Belt, One Road (OBOR) initiatives and the Future of China-Africa Relations” at the Annual Conference of The Korean Society of Contemporary European Studies, Seoul, December 07, 2018
   
 <h2>Leadership</h2>
-
 + GPC Representative for  Graduate Association of Political Scientists (GAPS) at University of Missouri (2020-2021 Academic Year) 
-
-</div>
