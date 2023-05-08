@@ -26,16 +26,13 @@ weight = 50
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p> Discussant for the Session of “Poster Session: Undergraduate Behavior and Methods” at the 80th of Annual Conference of Midwest Political Science Association, Chicago, IL, April 13, 2023. </p>
-  
-<p> Discussant for the Session of “Poster Session: Undergraduate Comparative Politics” at the 79th of Annual Conference of Midwest Political Science Association, Chicago, IL, April 7, 2022. </p>
- 
-<p> Chair & Discussant for the Session of “Parties, Media, and Political Communication in Comparative Perspective” at the 78th of Annual Conference of Midwest Political Science Association, Virtual, April 21, 2021 </p>
-
-<p> Discussant for the Session of “China’s One Belt, One Road (OBOR) initiatives and the Future of China-Africa Relations” at the Annual Conference of The Korean Society of Contemporary European Studies, Seoul, December 07, 2018 </p>
++ Discussant for the Session of “Poster Session: Undergraduate Behavior and Methods” at the 80th of Annual Conference of Midwest Political Science Association, Chicago, IL, April 13, 2023.
++ Discussant for the Session of “Poster Session: Undergraduate Comparative Politics” at the 79th of Annual Conference of Midwest Political Science Association, Chicago, IL, April 7, 2022. </p>
++ Chair & Discussant for the Session of “Parties, Media, and Political Communication in Comparative Perspective” at the 78th of Annual Conference of Midwest Political Science Association, Virtual, April 21, 2021
++ Discussant for the Session of “China’s One Belt, One Road (OBOR) initiatives and the Future of China-Africa Relations” at the Annual Conference of The Korean Society of Contemporary European Studies, Seoul, December 07, 2018
   
 <h2>Leadership</h2>
 
-<p> GPC Representative for  Graduate Association of Political Scientists (GAPS) at University of Missouri (2020-2021 Academic Year) </p>
++ GPC Representative for  Graduate Association of Political Scientists (GAPS) at University of Missouri (2020-2021 Academic Year) 
 
 </div>
