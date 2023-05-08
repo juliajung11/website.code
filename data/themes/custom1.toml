@@ -8,18 +8,18 @@ light = true
 primary = "#1a7b4e"
 
 # Menu
-menu_primary = "#E0ECF8"
+menu_primary = "#E2EFE9"
 menu_text = "#1a7b4e"
-menu_text_active = "#045FB4"
-menu_title = "#0B2161"
+menu_text_active = "#176C44"
+menu_title = "#0D3D27"
 
 # Home sections
-home_section_odd = "#EFF5FB"
-home_section_even = "#E0ECF8"
+home_section_odd = "#E9E9E9"
+home_section_even = "#E2EFE9"
 
 # links
-link = "#2980B9"
-link_hover = "#87bfe4"
+link = "#176C44"
+link_hover = "#8BB5A2"
 
 [dark]
   link = "#bbdefb"
