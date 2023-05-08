@@ -18,10 +18,12 @@ weight = 57
 +++
 <h2>University of Missouri</h2>
 
-_Instructor_
+_Course Instructor_
 + Introduction to International Relations, POLSC 1400, Fall 2023 (Future Courses)
 + Chinese Politics and Foreign Policy, POLSC 4680, Spring 2023
 + Comparative Political System, POLSC 2700, Fall 2022
+
+_Instructor for Methodology Workshops_
 + Mixed-Method Research, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2023.
 + Text Analysis in R, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2022.
 
