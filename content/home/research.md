@@ -28,5 +28,6 @@ weight = 20
 
 <p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a> (Currently Under Review) </p>
 
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Coalition Participation and Radical Populist Party Success: The Conditional Effect of Party Ideology"</a> (Currently Under Review) </p>
 
 </div>
