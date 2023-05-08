@@ -22,12 +22,11 @@ weight = 20
 
 
 +++
-<h2>Editor-Reviewed Book Chapters</h2>
+<h2>Under Review</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a> _Currently Under Review_ </p>
 
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
 
 </div>
