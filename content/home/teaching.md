@@ -19,20 +19,25 @@ weight = 57
 <h2>University of Missouri</h2>
 
 _Future Courses (tentative)_
-+ American National Government, POLSC 1100, Spring 2024
-+ Politics of the American South, POLSC 4170, Fall 2023
-+ Politics of the American South, POLSC 4170, Summer 2023 (asynchronously)
++ Introduction to International Relations, POLSC 1400, Fall 2023
 
 _Instructor_
-+ Program Assessment & Improvement, PUB_AF 4420, Spring 2023
-+ Politics of the American South, POLSC 4170, Fall 2022
-
-_Lab Instructor_
-+ Introduction to Political Research, POLSC 3000, Spring 2021 and Fall 2021
-+ State Government, POLSC 2100, Fall 2020
++ Chinese Politics and Foreign Policy, POLSC 4680, Spring 2023
++ Comparative Political System, POLSC 2700, Fall 2022
++ Mixed-Method Research, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2023.
++ Text Analysis in R, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2022.
 
 _Teaching Assistant_
-+ History of American Legislatures, POLSC 4141, Spring 2022
-+ Congress and Legislative Policy, POLSC 4140, Spring 2022
-+ Strategy and Warfare, POLSC 4412, Spring 2020
-+ American National Government, POLSC 1100, Fall 2019
++ Constitutional Rights, POLSC 4210, Fall 2021.
++ American Government, POLSC 1100, Fall 2021.
++ Topics in Political Science: How Government Affects You, POLSC 2004, Fall 2020.
++ American Foreign Policy, POLSC 4540, Spring 2020.
+
+_Guest Lecture_
++ Challenges to Global Order: Globalization, Immigration, and the Rise of the Extreme Right (Introduction to International Relations, POLSC 1400), Spring 2022. 
+
+<h2>Hanyang University</h2>
+
+_Teaching Assistant_
++ Political Science Methodology, Fall 2016.
++ International Organization, Fall 2016.
