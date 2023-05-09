@@ -31,3 +31,15 @@ weight = 20
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Coalition Participation and Radical Populist Party Success: The Conditional Effect of Party Ideology"</a> (Currently Under Review) </p>
 
 </div>
+
+<h2>Work in Progress</h2>
+
++ Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment" (with Jonathan Krieckhaus) (in progress) 
++ Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) (in progress)
++ Jung, Yujin J. "Populism in East Asia" (Dissertation Chapter) (in progress) 
++ Jung, Yujin J. "Populist Attitudes and Intersectionality" (Dissertation Chapter) (in progress)
++ Jung, Yujin J. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" (with  Jeongho Choi) (in progress) 
++ Jung, Yujin J. "Perceived Inequality,  Redistribution Preferences, and Populist Attitudes in the United States"  (with Eduardo Ryô Tamaki) (in progress)
++ Jung, Yujin J. "Political Campaign of Asian-American Politicians" (with Taewoo Kang) (in progress) 
++ Jung, Yujin J. "A Comparative Analysis of the Onset of Campaign Debates in the Electoral Process " (in progress)
+
