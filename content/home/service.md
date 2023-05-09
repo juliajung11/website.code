@@ -33,4 +33,6 @@ weight = 50
   
 <h2>Leadership</h2>
 
-+ GPC Representative for  Graduate Association of Political Scientists (GAPS) at University of Missouri (2020-2021 Academic Year) 
++ GPC Representative for  Graduate Association of Political Scientists (GAPS) at University of Missouri (2020-2021 Academic Year).
++ Volunteer Translator for North Korean Human Right NGO (PSCORE) at United Nations Geneva, Mar 2017.
++ Congressional Intern, Korean Embassy at the United States, Dec 2013 - Feb 2014.
