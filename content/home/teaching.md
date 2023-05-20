@@ -19,6 +19,7 @@ weight = 30
 <h2>University of Missouri</h2>
 
 _Course Instructor_
++ The Science of Politics (Research Methods), POLSC 2500, Spring 2024 (Future Courses)
 + Introduction to International Relations, POLSC 1400, Fall 2023 (Future Courses)
 + Chinese Politics and Foreign Policy, POLSC 4680, Spring 2023
 + Comparative Political System, POLSC 2700, Fall 2022
