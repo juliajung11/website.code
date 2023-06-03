@@ -13,7 +13,7 @@ title = "Teaching"
 
 # Order that this section will appear in.
 weight = 30
-
+++++
 _"Professor Jung is incredibly passionate about this subject and helped me cultivate a deep and vibrant understanding of Chinese  politics. She values discussion and a variety of view points in class and helps foster student growth and participation. She has  been one of the most encouraging professors to me personally this semester!" (Student Evalulation, Spring 2023, POL 4680)_
 
 
