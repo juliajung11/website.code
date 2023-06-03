@@ -25,9 +25,9 @@ _"Professor Jung was amazing. She was constantly engaging and enthusiastic. She 
 - The Science of Politics (Research Methods), POLSC 2500, Spring 2024 (Future Courses)
 - Introduction to International Relations, POLSC 1400, Fall 2023 (Future Courses)
 - Chinese Politics and Foreign Policy, POLSC 4680, Spring 2023 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;- Course Evaluation: 4.60/5.00 (Diversity and Inclusion: 4.72/5.00)
+> - Course Evaluation: 4.60/5.00 (Diversity and Inclusion: 4.72/5.00)
 - Comparative Political System, POLSC 2700, Fall 2022
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;- Course Evaluation: 4.56/5.00 (Diversity and Inclusion: 4.81/5.00)
+> - Course Evaluation: 4.56/5.00 (Diversity and Inclusion: 4.81/5.00)
 
 <b>Instructor for Methodology Workshops</b>
 - Mixed-Method Research, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2023.
