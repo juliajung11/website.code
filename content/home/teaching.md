@@ -21,25 +21,32 @@ _"Professor Jung was amazing. She was constantly engaging and enthusiastic. She 
 
 <h2>University of Missouri</h2>
 
-<b>Course Instructor</b>
-- The Science of Politics (Research Methods), POLSC 2500, Spring 2024 (Future Courses)
-- Introduction to International Relations, POLSC 1400, Fall 2023 (Future Courses)
-- Chinese Politics and Foreign Policy, POLSC 4680, Spring 2023 
-> - Course Evaluation: 4.60/5.00 (Diversity and Inclusion: 4.72/5.00)
-- Comparative Political System, POLSC 2700, Fall 2022
-> - Course Evaluation: 4.56/5.00 (Diversity and Inclusion: 4.81/5.00)
+### Course Instructor
+<b> The Science of Politics (Research Methods)</b>, POLSC 2500, Spring 2024 
+- Expected to teach in Spring 2024
 
-<b>Instructor for Methodology Workshops</b>
+<b> Introduction to International Relations</b>, POLSC 1400, Fall 2023 
+- Expected to teach in Fall 2023
+
+<b> Chinese Politics and Foreign Policy </b>, POLSC 4680, Spring 2023 
+- Course Evaluation (average): 4.60/5.00 
+- Diversity and Inclusion Teaching: 4.72/5.00
+
+<b> Comparative Political System </b>, POLSC 2700, Fall 2022
+- Course Evaluation (average): 4.56/5.00 
+- Diversity and Inclusion Teaching: 4.81/5.00
+
+### Instructor for Methodology Workshops
 - Mixed-Method Research, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2023.
 - Text Analysis in R, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2022.
 
-<b>Teaching Assistant</b>
+### Teaching Assistant
 - Constitutional Rights, POLSC 4210, Fall 2021.
 - American Government, POLSC 1100, Spring 2021.
 - Topics in Political Science: How Government Affects You, POLSC 2004, Fall 2020.
 - American Foreign Policy, POLSC 4540, Spring 2020.
 
-<b>Guest Lecture</b>
+### Guest Lecture
 - Challenges to Global Order: Globalization, Immigration, and the Rise of the Extreme Right (Introduction to International Relations, POLSC 1400), Spring 2022. 
 
 <h2>Hanyang University</h2>
