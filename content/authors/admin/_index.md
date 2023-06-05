@@ -32,8 +32,8 @@ education:
     year: 2024 (expected)
   - course: Methodological Training 
     institution: IQMR (Syracuse University, 2023) 
-    ICPSR (University of Michigan, 2022) 
-    SICSS (Rutgers University, 2021)
+    institution: ICPSR (University of Michigan, 2022) 
+    institution: SICSS (Rutgers University, 2021)
   - course: MA in International Politics
     institutions: Hanyang University
     year: 2018
