@@ -31,7 +31,7 @@ education:
     institution: University of Missouri
     year: 2024 (expected)
   - course: Methodological Training 
-    institution: |
+    institution: |-
     IQMR (Syracuse University, 2023)
     ICPSR (University of Michigan, 2022)
     SICSS (Rutgers University, 2021)
