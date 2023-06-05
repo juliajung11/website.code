@@ -30,6 +30,9 @@ education:
   - course: PhD in Political Science
     institution: University of Missouri
     year: 2024 (expected)
+  - course: Methodological Training 
+    institution: IQMR (Syracuse University), ICPSR (University of Michigan), SICSS (Rutgers University)
+    year: 2023, 2022, 2021 Summer
   - course: MA in International Politics
     institutions: Hanyang University
     year: 2018
