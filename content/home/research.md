@@ -22,7 +22,7 @@ weight = 20
 
 
 +++
-<h2>Under Review</h2>
+### Under Review
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
@@ -32,12 +32,13 @@ weight = 20
 
 </div>
 
-<h2>Work in Progress</h2>
+### Dissertation Chapters
++ Jung, Yujin J. "Populism Studies in Comparative Perspective: Text Analysis of Populist Rhetoric in East Asia" (in progress) 
+
+### Work in Progress
 
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment" (with Jonathan Krieckhaus) (in progress) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) (in progress)
-+ Jung, Yujin J. "Populism in East Asia" (Dissertation Chapter) (in progress) 
-+ Jung, Yujin J. "Populist Attitudes and Intersectionality" (Dissertation Chapter) (in progress)
 + Jung, Yujin J. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" (with  Jeongho Choi) (in progress) 
 + Jung, Yujin J. "Perceived Inequality,  Redistribution Preferences, and Populist Attitudes in the United States"  (with Eduardo Ryô Tamaki) (in progress)
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians" (with Taewoo Kang) (in progress) 
