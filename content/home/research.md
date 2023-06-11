@@ -32,8 +32,8 @@ weight = 20
 
 </div>
 
-### Dissertation Chapters
-+ Jung, Yujin J. "Populism Studies in Comparative Perspective: Text Analysis of Populist Rhetoric in East Asia" (in progress) 
+### Doctoral Dissertation (In Progress)
++ Jung, Yujin J. "Populism Studies in Comparative Perspective: Text Analysis of Populist Rhetoric in East Asia" 
 
 ### Work in Progress
 
