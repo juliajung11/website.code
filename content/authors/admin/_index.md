@@ -80,4 +80,4 @@ Prior to beginning the Ph.D. program, I was a researcher at the [Institute for E
 
 You can download a copy of my Curriculum Vitae {{< staticref "Jung_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-Beyond academic life, I am a big fan of sports, ranging from playing golf to watching baseball, am an amateur photographer, and am passionate about jazz and bourbon. 
+Beyond academic life, I am a big fan of sports, ranging from playing golf to watching baseball, am an amateur photographer, and am passionate about jazz and romcom. 
