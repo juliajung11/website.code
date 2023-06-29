@@ -6,7 +6,7 @@ title: Yujin "Julia" Jung
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Candidate
+role: ABD, Political Science PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
