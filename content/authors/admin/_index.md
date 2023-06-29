@@ -31,7 +31,7 @@ education:
     institution: University of Missouri
     year: 2024 (expected)
   - course: Methodological Training 
-    institution: IQMR (Syracuse University, 2023), ICPSR (University of Michigan, 2022), SICSS (Rutgers University, 2021)
+    institution: IQMR (Syracuse University, 2022), ICPSR (University of Michigan, 2021), SICSS (Rutgers University, 2020)
   - course: MA in International Politics
     institutions: Hanyang University
     year: 2018
@@ -80,4 +80,4 @@ Prior to beginning the Ph.D. program, I was a researcher at the [Institute for E
 
 You can download a copy of my Curriculum Vitae {{< staticref "Jung_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-Beyond academic life, I am a big fan of sports, ranging from playing golf to watching baseball, am an amateur photographer, and am passionate about jazz and romcom. 
+Beyond academic life, I am a big fan of sports, ranging from playing golf to watching baseball, am an amateur photographer, and am passionate about jazz and impressionism artworks. 
