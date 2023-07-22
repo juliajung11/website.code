@@ -32,6 +32,9 @@ weight = 20
 
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> (Currently Under Review) </p>
 
+<p> Choi, Jeongho, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"</a> (Currently Under Review) </p>
+
+
 </div>
 
 ### Doctoral Dissertation (In Progress)
@@ -42,7 +45,6 @@ weight = 20
 
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment" (with Jonathan Krieckhaus) (in progress) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) (in progress)
-+ Jung, Yujin J. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" (with  Jeongho Choi) (in progress) 
 + Jung, Yujin J. "Perceived Inequality,  Redistribution Preferences, and Populist Attitudes in the United States"  (with Eduardo Ryô Tamaki) (in progress)
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians" (with Taewoo Kang) (in progress) 
 + Jung, Yujin J. "A Comparative Analysis of the Onset of Campaign Debates in the Electoral Process " (in progress)
