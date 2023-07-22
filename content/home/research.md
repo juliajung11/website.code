@@ -37,12 +37,10 @@ weight = 20
 
 </div>
 
-### Doctoral Dissertation (In Progress)
-+ Jung, Yujin J. "Populism and Polarization in Comparative Perspective: Sectarian Populism"
-+ Jung, Yujin J. "Populist Attitudes in the United States"
 
 ### Work in Progress
-
++ Jung, Yujin J. "Populism and Polarization in Comparative Perspective: Sectarian Populism" (Doctoral Dissertation)
++ Jung, Yujin J. "Populist Attitudes in the United States" (Doctoral Dissertation)
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment" (with Jonathan Krieckhaus) (in progress) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) (in progress)
 + Jung, Yujin J. "Perceived Inequality,  Redistribution Preferences, and Populist Attitudes in the United States"  (with Eduardo Ryô Tamaki) (in progress)
