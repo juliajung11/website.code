@@ -30,6 +30,8 @@ weight = 20
 
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Coalition Participation and Radical Populist Party Success: The Conditional Effect of Party Ideology"</a> (Currently Under Review) </p>
 
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> (Currently Under Review) </p>
+
 </div>
 
 ### Doctoral Dissertation (In Progress)
