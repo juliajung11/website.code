@@ -21,8 +21,10 @@ _"Professor Jung was amazing. She was constantly engaging and enthusiastic. She 
 
 
 ### Course Instructor
-+ <b> The Science of Politics (Research Methods)</b>, POLSC 2500, Spring 2024 
-+ <b> Introduction to International Relations</b>, POLSC 1400, Fall 2023 
++ <b> The Science of Politics (Research Methods)</b>, POLSC 2500
+    - Expected to teach in Spring 2024
++ <b> Introduction to International Relations</b>, POLSC 1400
+    - Currently teaching in Fall 2023
 + <b> Chinese Politics and Foreign Policy </b>, POLSC 4680, Spring 2023 
     - Course Evaluation (average): 4.60/5.00 
     - Diversity and Inclusion Teaching: 4.72/5.00
