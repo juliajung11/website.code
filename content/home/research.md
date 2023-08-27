@@ -45,7 +45,8 @@ weight = 20
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) (in progress)
 + Jung, Yujin J. "Perceived Inequality,  Redistribution Preferences, and Populist Attitudes in the United States"  (with Eduardo Ryô Tamaki) (in progress)
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians" (with Taewoo Kang) (in progress)
-+ Jung, Yujin J. "Left and Right Populism on Immigration Rhetoric" (with  Jeongho Choi) (in progress)
++ Jung, Yujin J. "Left and Right Populism on Immigration Rhetoric in Latin America" (with  Jeongho Choi) (in progress)
 + Jung, Yujin J. "A Comparative Analysis of the Onset of Campaign Debates in the Electoral Process " (in progress)
 + Jung, Yujin J. "The Impact of the China-North Korea Relationship on International Relations in Asia" (in progress)
++ Jung, Yujin J. Right-wing Populism and Gender Politics: A Case Study from South Korea”  (in progress)
 
