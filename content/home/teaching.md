@@ -14,23 +14,13 @@ title = "Teaching"
 # Order that this section will appear in.
 weight = 30
 +++
-# _"Professor Jung is incredibly passionate about this subject and helped me cultivate a deep and vibrant understanding of Chinese  politics. She values discussion and a variety of viewpoints in class and helps foster student growth and participation. She has  been one of the most encouraging professors to me personally this semester!" (Student Evaluation, Spring 2023, POL 4680)_
-
-
-# _"Professor Jung was amazing. She was constantly engaging and enthusiastic. She created a very positive class environment. She  was also really understanding and receptive to any suggestions or clarifications. She also took the time to answer our questions  and get to know us as individuals. 10/10 would recommend this course to others, specifically a thank you to Professor Jung!" (Student Evaluation, Fall 2022, POL 2700)_
-
 
 ### Course Instructor
 + <b> The Science of Politics (Research Methods)</b>, POLSC 2500, Spring 2024
-#    - Expected to teach in Spring 2024
 + <b> Introduction to International Relations</b>, POLSC 1400, Fall 2023
-#    - Currently teaching in Fall 2023
 + <b> Chinese Politics and Foreign Policy </b>, POLSC 4680, Spring 2023 
-#    - Course Evaluation (average): 4.60/5.00 
-#    - Diversity and Inclusion Teaching: 4.72/5.00
 + <b> Comparative Political System </b>, POLSC 2700, Fall 2022
-#    - Course Evaluation (average): 4.56/5.00 
-#    - Diversity and Inclusion Teaching: 4.81/5.00
+
 
 ### Teaching Assistant 
 - United States Constitutional Rights, POLSC 4210, Fall 2021.
