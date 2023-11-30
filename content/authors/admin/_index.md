@@ -10,7 +10,7 @@ role: Incoming Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Missouri
+- name: Political Science
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
