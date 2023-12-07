@@ -4,23 +4,23 @@ name = "custom1"
 # Is theme light or dark?
 light = true
 
-# Primary
-primary = "#1A3B7B"  # Changed to a navy blue, similar intensity to original green
+# Primary (Replacing green with a navy blue)
+primary = "#1A4E7B"
 
-# Menu
-menu_primary = "#DEE6E6"  # Slightly altered to fit the blue theme, maintaining lightness
-menu_text = "#1A3B7B"  # Changed to navy blue, matching the primary
-menu_text_active = "#123366"  # A darker shade of navy for active text, keeping contrast
-menu_title = "#0D1E3D"  # Dark navy, similar contrast to original
+# Menu (Adjusting to match blue theme)
+menu_primary = "#E3E6EE"      # Lighter blue
+menu_text = "#1A4E7B"        # Navy blue
+menu_text_active = "#17446C" # Slightly darker navy
+menu_title = "#0D274D"       # Dark navy
 
-# Home sections
-home_section_odd = "#E3E6E6"  # Adjusted to a very light blue, keeping the soft appearance
-home_section_even = "#F3F5F7"  # Lighter blue, subtly different from odd sections
+# Home sections (Tinted with a subtle blue)
+home_section_odd = "#E3E6E8"
+home_section_even = "#F3F5F7"
 
-# Links
-link = "#123366"  # Dark navy for links, good contrast on light background
-link_hover = "#809BB5"  # Lighter blue for hover, ensuring visibility
+# Links (Adjusted to fit the blue theme)
+link = "#17446C"
+link_hover = "#A2B5BB"
 
 [dark]
-  link = "#bbdefb"  # Keeping the original light blue for dark mode links
-  link_hover = "#bbdefb"  # Consistent hover color in dark mode
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
