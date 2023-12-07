@@ -26,27 +26,19 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a> (Currently Under Review) </p>
-
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Coalition Participation and Radical Populist Party Success: The Conditional Effect of Party Ideology"</a> (Currently Under Review) </p>
-
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> (Currently Under Review) </p>
-
-<p> Choi, Jeongho, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"</a> (Currently Under Review) </p>
-
-
+<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a>  </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Coalition Participation and Radical Populist Party Success: The Conditional Effect of Party Ideology"</a> </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> </p>
+<p> Choi, Jeongho, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"</a>  </p>
 </div>
 
 
 ### Work in Progress
 + Jung, Yujin J. "Populism and Polarization in Comparative Perspective: Sectarian Populism" (Doctoral Dissertation)
-+ Jung, Yujin J. "Populist Attitudes in the United States" (Doctoral Dissertation)
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment" (with Jonathan Krieckhaus) (in progress) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) (in progress)
-+ Jung, Yujin J. "Perceived Inequality,  Redistribution Preferences, and Populist Attitudes in the United States"  (with Eduardo Ryô Tamaki) (in progress)
++ Jung, Yujin J. "A Non-linearity of Populist Attitudes"  (with Eduardo Ryô Tamaki) (in progress)
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians" (with Taewoo Kang) (in progress)
-+ Jung, Yujin J. "Left and Right Populism on Immigration Rhetoric in Latin America" (with  Jeongho Choi) (in progress)
++ Jung, Yujin J. "Authoritarian Attitudes and Populist Attitudes" (with  Jeongho Choi) (in progress)
 + Jung, Yujin J. "A Comparative Analysis of the Onset of Campaign Debates in the Electoral Process " (in progress)
-+ Jung, Yujin J. "The Impact of the China-North Korea Relationship on International Relations in Asia" (in progress)
-+ Jung, Yujin J. Right-wing Populism and Gender Politics: A Case Study from South Korea”  (in progress)
 
