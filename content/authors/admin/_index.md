@@ -10,7 +10,7 @@ role: Incoming Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Political Science
+- name: Mount St. Mary's University
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,10 +74,9 @@ social:
 highlight_name: false
 ---
 
-Greetings! I am a political science Ph.D. candidate (ABD) at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri, and an Incoming Assistant Professor in the Department of Political Science at [Mount St. Mary's University](https://msmary.edu/), starting from August 2024. My work mainly examines democracy and comparative institutions with a methodological interest in machine learning and text analysis. In my dissertation project, I investigate the rise of populism in East Asian countries and how elites become populistized in the context of polarization. My collaborated articles on political communication and democratic backsliding are currently under review in the journals. Presently, I am actively engaged in the composition of multiple research projects alongside my co-authors, all of which are works in progress that we intend to publish in the near future. 
+Yujin Julia Jung is a Political Science Ph.D. candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri, and an Incoming Assistant Professor in the Department of Political Science at [Mount St. Mary's University](https://msmary.edu/), starting in August 2024. Her work mainly examines democracy and comparative behavior with a methodological interest in text analysis. Her collaborated articles on populism and democracy are currently under review in the journals. Julia is also part of the Steering Committee of the [Young Scholars Initiative on Populism (OPUS)](https://populism.byu.edu/directory/yujin-julia-jung), a division within Team Populism, which is an international research network. 
 
-Prior to beginning the Ph.D. program, I was a researcher at the [Institute for Euro-African Studies](http://africa.hanyang.ac.kr/eng/) and a research fellow at [Nuclear Nonproliferation Education and Research Center](http://nerec.or.kr/). I obtained both a Master of International Politics and a Bachelor in Policy Studies (Summa Cum Laude) from [Hanyang University](https://www.hanyang.ac.kr/web/eng). I am the recipient of the Robert N. Epsten Scholarship for International Studies from the [Harry S. Truman Good Neighbor Award Foundation](https://trumanaward.org/), and also the [2022 & 2021 Edith Taylor Therrien Award](https://truman.missouri.edu/news/39th-annual-awards-reception) and 2020 Robin Remington Award. 
+Julia worked as a researcher at the [Institute for Euro-African Studies](http://africa.hanyang.ac.kr/eng/) and as a research fellow at [Nuclear Nonproliferation Education and Research Center](http://nerec.or.kr/). She obtained both a Master of International Politics and a Bachelor in Policy Studies (Summa Cum Laude) from [Hanyang University](https://www.hanyang.ac.kr/web/eng). She is the recipient of the Robert N. Epsten Scholarship for International Studies from the [Harry S. Truman Good Neighbor Award Foundation](https://trumanaward.org/), and also the [2022 & 2021 Edith Taylor Therrien Award](https://truman.missouri.edu/news/39th-annual-awards-reception) and 2020 Robin Remington Award. 
 
-You can download a copy of my Curriculum Vitae {{< staticref "Jung_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download a copy of Curriculum Vitae {{< staticref "Jung_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-Beyond academic life, I am a big fan of sports, ranging from playing golf to watching baseball, am an amateur photographer, and am passionate about jazz and impressionism artworks. 
