@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yujin "Julia" Jung
+title: Yujin Julia Jung
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yujin "Julia" Jung is a Ph.D. candidate in Political Science at the Truman School of Government and Public Affairs, University of Missouri, and an incoming Assistant Professor in the Department of Political Science at Mount St. Mary's University. Her work mainly examines democracy and comparative communication with a methodological interest in machine learning and text analysis. In her dissertation project, she investigates the rise of populism in East Asian countries and how mainstream parties become populistized. Prior to beginning the Ph.D. program, she was a researcher at the Institute for Euro-African Studies and a research fellow at Nuclear Nonproliferation Education and Research Center. She also obtained both a Master of International Politics and a Bachelor in Policy Studies (Summa Cum Laude) from Hanyang University, South Korea. Yujin Julia is the recipient of the Robert N. Epsten Scholarship for International Studies from the Harry S. Truman Good Neighbor Award Foundation, and also the 2022 & 2021 Edith Taylor Therrien Award and 2020 Robin Remington Award which are awarded to highly accomplished women graduate students. Her collaborated articles on political communication and democratic backsliding are currently under review in the journals. She is also an instructor and has taught the introductory course of Comparative Politics, International Relations, and Chinese Politics at the University of Missouri. Beyond academic life, she is a big fan of sports, ranging from playing golf to watching baseball, is an amateur photographer, and is passionate about jazz and bourbon. 
+bio: Yujin "Julia" Jung is a Ph.D. candidate in Political Science at the Truman School of Government and Public Affairs, University of Missouri, and an incoming Assistant Professor in the Department of Political Science at Mount St. Mary's University. 
 
 # Interests to show in About widget
 interests:
