@@ -16,7 +16,7 @@ weight = 30
 +++
 
 ### Assistant Professor at Mount St. Mary's University 
-+ <b> Starting from Fall 2024
++ <b> Starting from Fall 2024 </b>
 
 ### Graduate Instructor at the University of Missouri 
 + <b> The Science of Politics (Research Methods)</b>, POLSC 2500, Spring 2024
