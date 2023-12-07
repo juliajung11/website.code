@@ -25,5 +25,5 @@ weight = 30
 + <b> Comparative Political System </b>, POLSC 2700, Fall 2022
 
 ### Instructor for Methodology Workshops
-- Mixed-Method Research, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2023.
-- Text Analysis in R, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2022.
+- <b> Mixed-Method Research</b>, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2023.
+- <b> Text Analysis in R</b>, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2022.
