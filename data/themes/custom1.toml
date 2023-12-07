@@ -4,25 +4,25 @@ name = "custom1"
 # Is theme light or dark?
 light = true
 
-# Primary (Navy blue for top bar)
+# Primary
 primary = "#1A4E7B"
 
-# Menu (Adjusting to have a white or visible title)
-menu_primary = "#1A4E7B"   # Navy blue for menu bar
-menu_text = "#FFFFFF"      # White for menu text
+# Menu
+menu_primary = "#1A4E7B"     # Navy blue for menu bar
+menu_text = "#FFFFFF"        # White for menu text
 menu_text_active = "#E3E6EE" # Light blue for active menu text
-menu_title = "#FFFFFF"     # White for menu title
+menu_title = "#FFFFFF"       # White for menu title
 
-# Home sections (Keeping close to white)
+# Home sections
 home_section_odd = "#FAFAFA"
 home_section_even = "#FFFFFF"
 
-# Body background (Close to white)
+# Body background
 body_background = "#FFFFFF"
 
-# Links (Adjusted to fit the blue theme)
-link = "#17446C"
-link_hover = "#A2B5BB"
+# Links (Making them more noticeable)
+link = "#3298DC"           # Brighter blue for links
+link_hover = "#47B0F0"      # Even brighter blue for hover
 
 [dark]
   link = "#bbdefb"
