@@ -20,11 +20,11 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-address:
-  street: Washington DC-Baltimore Area
-  city: 
-  region:
-  postcode: 
+address: Washington DC-Baltimore Area
+#  street: 
+#  city: 
+#  region:
+#  postcode: 
   country: United States
   country_code: US
 #coordinates:
