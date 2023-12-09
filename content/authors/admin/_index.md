@@ -11,6 +11,7 @@ role: Incoming Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Mount St. Mary's University
+- location: Washington DC-Baltimore area
 
 
 # Short bio (displayed in user profile at end of posts)
