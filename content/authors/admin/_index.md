@@ -10,8 +10,8 @@ role: Incoming Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Mount St. Mary's University
-  location: Washington DC-Baltimore area
+- name: Mount St. Mary's University, Washington DC-Baltimore area
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Yujin "Julia" Jung is a Ph.D. candidate in Political Science at the Truman School of Government and Public Affairs, University of Missouri, and an incoming Assistant Professor in the Department of Political Science at Mount St. Mary's University. 
