@@ -24,9 +24,9 @@ weight = 20
 +++
 
 ### Revise and Resubmit 
-
+<div style="padding-left: 4em; text-indent: -4em;">
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> (R & R)</p>
-
+</div>
 
 ### Under Review
 
