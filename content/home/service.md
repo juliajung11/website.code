@@ -33,7 +33,7 @@ weight = 50
 
 ### Leadership
 
-+ Steering Committee, Steering Committee of the Young Scholars Initiative on Populism (OPUS), Team Populism, 2024.
++ Steering Committee of the Young Scholars Initiative on Populism (OPUS), Team Populism, 2024.
 + Writing Group Leader for Campus Writing Program, University of Missouri, January-May, 2023.
 + Debate Judge, for Missouri Debate Union at the University of Missouri, March 2023 \& October 2022. 
 + GPC Representative for the Graduate Association of Political Scientists (GAPS) at the University of Missouri (2020-2021 Academic Year).
