@@ -25,13 +25,13 @@ weight = 20
 
 ### Revise and Resubmit 
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> (R & R)</p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> </p>
+<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a>  </p>
 </div>
 
 ### Under Review
 
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a>  </p>
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Populism and Polarization in Comparative Perspective: Sectarian Populism"</a> </p>
 <p> Choi, Jeongho, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"</a>  </p>
 </div>
