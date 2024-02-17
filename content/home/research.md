@@ -38,10 +38,9 @@ weight = 20
 
 
 ### Work in Progress
-+ Jung, Yujin J. "Populism and Polarization in Comparative Perspective: Sectarian Populism" (Doctoral Dissertation)
-+ Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment" (with Jonathan Krieckhaus) 
++ Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
 + Jung, Yujin J. "A Non-linearity of Populist Attitudes"  (with Eduardo Ryô Tamaki) 
-+ Jung, Yujin J. "Political Campaign of Asian-American Politicians" (with Taewoo Kang) 
++ Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang) 
 + Jung, Yujin J. "Authoritarian Attitudes and Populist Attitudes" (with  Jeongho Choi) 
 
