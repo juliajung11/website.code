@@ -25,8 +25,8 @@ weight = 20
 
 ### Revise and Resubmit 
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Multilateral Cooperation and International Norms: Countering Cyber Threats in Nuclear Facilities"</a> </p>
-<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "A Computational Analysis of State Governors and Public Reaction on Twitter in Early Days of COVID-19 Pandemic"</a>  </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security"</a> </p>
+<p> Mao, Hanjing, Antony, Meril, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "Lighthouse in the Mist: State Governors’ Crisis Communication on Twitter during the Early Stage of the Covid-19 Pandemic"</a>  </p>
 </div>
 
 ### Under Review
