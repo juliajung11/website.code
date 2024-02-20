@@ -38,6 +38,7 @@ weight = 20
 
 
 ### Work in Progress
++ Jung, Yujin J. "Navigating Populism in America: Unveiling the Socio-Economic and Ideological Roots of Populist Attitudes"
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
 + Jung, Yujin J. "A Non-linearity of Populist Attitudes"  (with Eduardo Ryô Tamaki) 
