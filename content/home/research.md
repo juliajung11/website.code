@@ -42,6 +42,7 @@ weight = 20
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
 + Jung, Yujin J. "A Non-linearity of Populist Attitudes"  (with Eduardo Ryô Tamaki) 
-+ Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang) 
++ Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang)
++ Jung, Yujin J. "Right-wing Populism and Anti-feminism Backlash"
 + Jung, Yujin J. "Authoritarian Attitudes and Populist Attitudes" (with  Jeongho Choi) 
 
