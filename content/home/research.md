@@ -43,6 +43,6 @@ weight = 20
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
 + Jung, Yujin J. "A Non-linearity of Populist Attitudes"  (with Eduardo Ryô Tamaki) 
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang)
-+ Jung, Yujin J. "Right-wing Populism and Anti-feminism Backlash"
++ Jung, Yujin J. "Gender, Populist Candidates, and Media Effects" (forthcoming SAGE International Encyclopedia of Politics and Gender)
 + Jung, Yujin J. "Authoritarian Attitudes and Populist Attitudes" (with  Jeongho Choi) 
 
