@@ -23,7 +23,6 @@ weight = 20
 ### Publications
 <div style="padding-left: 4em; text-indent: -4em;">
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> _Journal of Asian Security and International Affairs_, forthcoming </p>
-
 </div>
 
 ### Under Review
@@ -33,6 +32,7 @@ weight = 20
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Populism and Polarization in Comparative Perspective: Sectarian Populism"</a> </p>
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa">  "Navigating Populism in America: Unveiling the Socio-Economic and Ideological Roots of Populist Attitudes" </a>  </p>
 </div>
+
 ### Work in Progress
 + Jung, Yujin J. "Are Populist Citizens Extreme? Non-linearity of Populist Attitudes and Ideological Extremism"  (with Eduardo Ryô Tamaki) 
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
