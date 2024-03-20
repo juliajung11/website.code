@@ -23,12 +23,11 @@ weight = 20
 
 ### Publications
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> Journal of Asian Security and International Affairs, forthcoming </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security." </a> <I> Journal of Asian Security and International Affairs </i>, forthcoming </p>
 
 </div>
 
 ### Under Review
-<div style="padding-left: 4em; text-indent: -4em;">
 <p> Mao, Hanjin, Meril Antony, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR"> "Lighthouse in the Mist: State Governors’ Crisis Communication on Twitter during the Early Stage of the Covid-19 Pandemic"</a> (Revise and Resubmit) </p>
 <p> Choi, Jeongho, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"</a>   </p>
 <p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Populism and Polarization in Comparative Perspective: Sectarian Populism"</a> </p>
