@@ -20,7 +20,7 @@ weight = 20
 # example from Tyler
 # Ba, Heather K., & Coleman, Tyler. 2021. ["Deindustrialization and the Demand for Protection"](https://www.tyler-coleman.com/publication/bacoleman2021). _Business and Politics_, 23(2), 264-281. [doi:10.1017/bap.2020.17](https://doi.org/10.1017/bap.2020.17).
 
-
++++
 
 ### Publications
 <div style="padding-left: 4em; text-indent: -4em;">
