@@ -2,3 +2,16 @@ a:hover, a:visited, a:link, a:active
 {
     text-decoration: none;
 }
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Garamond', 'Times New Roman', Times, serif;
+}
+
+a, a:hover, a:visited, a:link, a:active {
+  font-family: Helvetica, Arial, sans-serif;
+  text-decoration: none;
+}
