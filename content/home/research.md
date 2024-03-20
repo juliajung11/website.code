@@ -21,11 +21,9 @@ weight = 20
 # Ba, Heather K., & Coleman, Tyler. 2021. ["Deindustrialization and the Demand for Protection"](https://www.tyler-coleman.com/publication/bacoleman2021). _Business and Politics_, 23(2), 264-281. [doi:10.1017/bap.2020.17](https://doi.org/10.1017/bap.2020.17).
 
 
-+++
-
 ### Publications
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> _Journal of Asian Security and International Affairs_, forthcoming </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> Journal of Asian Security and International Affairs, forthcoming </p>
 
 </div>
 
