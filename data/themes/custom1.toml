@@ -14,15 +14,15 @@ menu_text_active = "#E3E6EE" # Light blue for active menu text
 menu_title = "#FFFFFF"       # White for menu title
 
 # Home sections
-home_section_odd = "#FAFAFA"
-home_section_even = "#FFFFFF"
+home_section_odd = "#2E3A46"
+home_section_even = "#1B2836"
 
 # Body background
-body_background = "#FFFFFF"
+body_background = "#121212"
 
 # Links (Making them more noticeable)
-link = "#3298DC"           # Brighter blue for links
-link_hover = "#47B0F0"      # Even brighter blue for hover
+link = "#bbdefb"           # Brighter blue for links
+link_hover = "#bbdefb"      # Even brighter blue for hover
 
 [dark]
   link = "#bbdefb"
