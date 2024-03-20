@@ -23,7 +23,9 @@ weight = 20
 
 ### Publications
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security." </a> <span style="font-style: italic;">Journal of Asian Security and International Affairs</span>, forthcoming </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security." </a> <i>Journal of Asian Security and International Affairs</i>, forthcoming </p>
+</div>
+
 </div>
 
 
