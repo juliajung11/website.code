@@ -19,26 +19,3 @@ weight = 20
 
 # example from Tyler
 # Ba, Heather K., & Coleman, Tyler. 2021. ["Deindustrialization and the Demand for Protection"](https://www.tyler-coleman.com/publication/bacoleman2021). _Business and Politics_, 23(2), 264-281. [doi:10.1017/bap.2020.17](https://doi.org/10.1017/bap.2020.17).
-
-### Publications
-
-<div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security"</a> _Journal of Asian Security and International Affairs_ forthcoming </p>
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> _Journal of Asian Security and International Affairs_, forthcoming </p>
-</div>
-
-### Under Review
-+ Mao, Hanjing, Antony, Meril & Jung, Yujin J.  "Lighthouse in the Mist: State Governors’ Crisis Communication on Twitter during the Early Stage of the Covid-19 Pandemic'' _Revise & Resubmit_
-+ Choi, Jeongho & Jung, Yujin J. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" 
-+ Jung, Yujin J. "Populism and Polarization in Comparative Perspective: Sectarian Populism"  
-+ Jung, Yujin J. "Mapping Populism: Understanding the Socio-Economic and Ideological Landscape of Populist Attitudes in the U.S."
-
-
-### Work in Progress
-+ Jung, Yujin J. "Are Populist Citizens Extreme? Non-linearity of Populist Attitudes and Ideological Extremism"  (with Eduardo Ryô Tamaki) 
-+ Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
-+ Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
-+ Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang)
-+ Jung, Yujin J. "Gender, Populist Candidates, and Media Effects" (forthcoming SAGE International Encyclopedia of Politics and Gender)
-+ Jung, Yujin J. "Authoritarian Attitudes and Populist Attitudes" (with  Jeongho Choi) 
-
