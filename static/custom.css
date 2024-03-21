@@ -1,19 +1,4 @@
-
-/* Google Fonts에서 가져온 @import 문 */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
-/* 모든 기본 텍스트에 대해 Roboto 폰트 적용 */
-body {
-  font-family: 'Roboto', sans-serif;
-}
-
-/* 제목 태그에 대해 동일한 폰트 적용, 두께를 다르게 하고 싶다면 두께 값을 조정 */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 700; /* 700은 bold 두께입니다 */
-}
-
-/* 링크에 대해 폰트 적용 */
-a {
-  font-family: 'Roboto', sans-serif;
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
 }
