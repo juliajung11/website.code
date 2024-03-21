@@ -7,7 +7,7 @@
 
 theme: custom1
 day_night: false
-font: 'georgia'
+font: 'font-georgia'
 font_size: M
 
 # SEO
