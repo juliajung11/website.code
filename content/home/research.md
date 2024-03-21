@@ -24,7 +24,7 @@ weight = 20
 
 ### Publications
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. 2024. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> <i>Journal of Asian Security and International Affairs</i>, forthcoming </p>
+<p> Jung, Yujin J. 2024. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> <i>Journal of Asian Security and International Affairs</i>, 11(2). forthcoming </p>
 </div>
 
 ### Under Review
@@ -40,5 +40,5 @@ weight = 20
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang)
-+ Jung, Yujin J. "Gender, Populist Candidates, and Media Effects" (forthcoming SAGE International Encyclopedia of Politics and Gender)
++ Jung, Yujin J. "Gender, Populist Candidates, and Media Effects" (_SAGE International Encyclopedia of Politics and Gender_, forthcoming)
 + Jung, Yujin J. "Authoritarian Attitudes and Populist Attitudes" (with  Jeongho Choi) 
