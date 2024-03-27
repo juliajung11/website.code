@@ -8,7 +8,7 @@ light = false
 primary = "#030630"  # New primary color: Dark Slate Blue
 
 # Menu
-menu_primary = "#232F34"     # Dark Charcoal for the menu bar
+menu_primary = "#030630"     # Dark Charcoal for the menu bar
 menu_text = "#F9AA33"        # Saffron for menu text
 menu_text_active = "#4A6572" # Cadet Blue for active menu text
 menu_title = "#F9AA33"       # Saffron for the menu title
