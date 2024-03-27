@@ -5,7 +5,7 @@ name = "custom1"
 light = false
 
 # Primary
-primary = "#003153"  # New primary color: Dark Slate Blue
+primary = "#030630"  # New primary color: Dark Slate Blue
 
 # Menu
 menu_primary = "#232F34"     # Dark Charcoal for the menu bar
