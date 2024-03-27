@@ -14,15 +14,15 @@ menu_text_active = "#4A6572" # Cadet Blue for active menu text
 menu_title = "#F9AA33"       # Saffron for the menu title
 
 # Home sections
-home_section_odd = "#4A6572"  # Cadet Blue for odd sections
-home_section_even = "#344955" # Dark Slate Blue for even sections
+home_section_odd = "#00001C"  # Cadet Blue for odd sections
+home_section_even = "#003153" # Dark Slate Blue for even sections
 
 # Body background
 body_background = "#0D1B2A"  # Dark Blue for the body background
 
 # Links (Making them more noticeable)
-link = "#F9AA33"            # Saffron for links
-link_hover = "#FFD700"      # Gold for link hover effect
+link = "#468FEA"            # Saffron for links
+link_hover = "#468FEA"      # Gold for link hover effect
 
 [dark]
   link = "#F9AA33"          # Saffron for links in dark mode
