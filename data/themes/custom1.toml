@@ -25,5 +25,5 @@ link = "#468FEA"            # Saffron for links
 link_hover = "#468FEA"      # Gold for link hover effect
 
 [dark]
-  link = "#468FEA"          # Saffron for links in dark mode
-  link_hover = "#468FEA"    # Gold for hover in dark mode
+  link = "#ABCDEF"          # Saffron for links in dark mode
+  link_hover = "#ABCDEF"    # Gold for hover in dark mode
