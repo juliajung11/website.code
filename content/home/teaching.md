@@ -17,7 +17,7 @@ weight = 30
 
 ### Assistant Professor at Mount St. Mary's University 
 + <b> Introduction to Populist Politics</b>, PSCI 100, Fall 2024 (expected)
-+ <b> Research Methods, PS 360</b>, Fall 2024 (expected)
++ <b> Political Analysis (Research Methods)</b>, PSCI 360, Fall 2024 (expected)
 
 ### Graduate Instructor at the University of Missouri 
 + <b> The Science of Politics (Research Methods)</b>, POLSC 2500, Spring 2024
