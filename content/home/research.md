@@ -38,7 +38,8 @@ weight = 20
 </div>
 
 ### Work in Progress
-+ Jung, Yujin J. "Are Populist Citizens Extreme? Non-linearity of Populist Attitudes and Ideological Extremism"  (with Eduardo Ryô Tamaki) 
++ Jung, Yujin J. "Are Populist Citizens Extreme? Non-linearity of Populist Attitudes and Ideological Extremism"  (with Eduardo Ryô Tamaki)
++ Jung, Yujin J. "Large Language Model and Populism"
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang)
