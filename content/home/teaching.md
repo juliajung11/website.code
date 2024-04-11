@@ -28,3 +28,6 @@ weight = 30
 ### Instructor for Methodology Workshops
 - <b> Mixed-Method Research</b>, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2023.
 - <b> Text Analysis in R</b>, Method Workshops for Graduate Students in Quantitative Methods, Truman School of Government and Public Affairs, Spring 2022.
+
+### Awards
+- <b> The GPC Excellence in Teaching Award</b>, University of Missouri, 2024.
