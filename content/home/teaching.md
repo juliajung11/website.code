@@ -31,3 +31,4 @@ weight = 30
 
 ### Awards
 - <b> The GPC Excellence in Teaching Award</b>, University of Missouri, 2024.
+- <b> Missouri Excellence in Political Science Teaching Award</b>, University of Missouri, 2024.
