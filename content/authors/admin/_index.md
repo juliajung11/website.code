@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yujin J. Jung
+title: Dr. Yujin J. Jung
 
 # Is this the primary user of the site?
 superuser: true
@@ -76,7 +76,7 @@ social:
 highlight_name: false
 --- 
 
-Yujin J. Jung is an incoming tenure-track Assistant Professor of Political Science at [Mount St. Mary's University](https://msmary.edu/), set to begin her role in the fall of 2024. Jung’s academic work is primarily centered on examining democracy and political behavior, with a methodological focus on text analysis. She has forthcoming articles in the _Journal of Asian Security and International Affairs_ and the _Journal of Public Administration in the Digital Age_. In addition, her ongoing work on populism and democracy is under review in several academic journals.
+Dr. Yujin J. Jung is an incoming tenure-track Assistant Professor of Political Science at [Mount St. Mary's University](https://msmary.edu/), set to begin her role in the fall of 2024. Jung’s academic work is primarily centered on examining democracy and political behavior, with a methodological focus on text analysis. She has forthcoming articles in the _Journal of Asian Security and International Affairs_ and the _Journal of Public Administration in the Digital Age_. In addition, her ongoing work on populism and democracy is under review in several academic journals.
 
 Jung's achievements have been recognized with awards in both teaching and research. She has been honored with the [GPC Excellence in Teaching Award](https://gpc.missouri.edu/resources-programs/awards/) (2024) and the Missouri Excellence in Political Science Teaching Award (2024) from the University of Missouri, underscoring her dedication to educational excellence. On the research front, she received the Robert N. Epsten Scholarship for International Studies from the [Harry S. Truman Good Neighbor Award Foundation](https://trumanaward.org/) (2022).
 
