@@ -26,14 +26,14 @@ weight = 20
 
 ### Under Review
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Choi, Jeongho, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"</a>   </p>
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Populism and Polarization in Comparative Perspective: Sectarian Populism"</a> </p>
-<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication/JungURa">  "Navigating Populism in America: Unveiling the Socio-Economic and Ideological Roots of Populist Attitudes" </a>  </p>
+<p> Choi, Jeongho, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication"> "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"</a>   </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication"> "Populism and Polarization in Comparative Perspective: Sectarian Populism"</a> </p>
+<p> Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication">  "Navigating Populism in America: Unveiling the Socio-Economic and Ideological Roots of Populist Attitudes" </a>  </p>
+<p> Tamaki, Eduardo Ryô, & Jung, Yujin J. <a href="https://www.yujinjuliajung.com/publication">  "Are Populist Citizens Extreme? Non-linearity of Populist Attitudes and Ideological Extremism" </a> </p>
 </div>
 
 ### Work in Progress
-+ Jung, Yujin J. "Are Populist Citizens Extreme? Non-linearity of Populist Attitudes and Ideological Extremism"  (with Eduardo Ryô Tamaki)
-+ Jung, Yujin J. "Large Language Model and Populism"
++ Jung, Yujin J. "Large Language Model and Populism" (with Eduardo Ryô Tamaki)
 + Jung, Yujin J. "Presidential Rhetoric in Social Media and Anti-Minority Sentiment: Using LLM Approach" (with Jonathan Krieckhaus) 
 + Jung, Yujin J. "Democratic Backsliding and Political Revenge in South Korea"  (with Youngho Cho) 
 + Jung, Yujin J. "Political Campaign of Asian-American Politicians: Using Survey Experiments" (with Taewoo Kang)
