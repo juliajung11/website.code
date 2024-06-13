@@ -24,7 +24,7 @@ weight = 20
 
 ### Publications
 <div style="padding-left: 4em; text-indent: -4em;">
-<p> Jung, Yujin J. 2024. <a href="https://www.yujinjuliajung.com/publication/JungURa"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> <i>Journal of Asian Security and International Affairs</i>, 11(2). <a href="https://journals.sagepub.com/doi/10.1177/23477970241250102"> doi: 10.1177/23477970241250102 </a> </p>
+<p> Jung, Yujin J. 2024. <a href="https://www.yujinjuliajung.com/publication/JungURa1"> "Cyber Shadows over Nuclear Peace: Understanding and Mitigating Digital Threats to Global Security."</a> <i>Journal of Asian Security and International Affairs</i>, 11(2), 233-533. <a href="https://journals.sagepub.com/doi/10.1177/23477970241250102"> doi: 10.1177/23477970241250102 </a> </p>
 <p> Mao, Hanjin, Meril Antony, & Jung, Yujin J. 2024. <a href="https://www.yujinjuliajung.com/publication/MaoAntonyJungUR.pdf"> "Lighthouse in the Mist: State Governors’ Crisis Communication on Twitter during the Early Stage of the Covid-19 Pandemic."</a> <i>International Journal of Public Administration in the Digital Age </i>, 11(1), 1-34. <a href="https://www.irma-international.org/article/lighthouse-in-the-mist/344420/"> doi: 10.4018/IJPADA.344420 </a> </p>
 
   
