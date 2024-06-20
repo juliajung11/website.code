@@ -7,7 +7,7 @@
 
 theme: custom1
 day_night: false
-font: 'Roboto'
+font: 'native'
 font_size: M
 
 # SEO
