@@ -5,24 +5,24 @@ name = "custom1"
 light = true
 
 # Primary
-primary = "#1C1F4A"  # 매우 짙은 남색 (Dark Navy Blue)
+primary = "#151B54"  # 매우 짙은 남색 (Dark Navy Blue)
 
 # Menu
-menu_primary = "#1C1F4A"     # 매우 짙은 남색 (Dark Navy Blue)
-menu_text = "#8B4513"        # 매우 짙은 고동색 (Saddle Brown)
-menu_text_active = "#6A5ACD" # 슬레이트 블루 (Slate Blue)
-menu_title = "#8B4513"       # 매우 짙은 고동색 (Saddle Brown)
+menu_primary = "#151B54"     # 상단메뉴바
+menu_text = "#DBE9FA"        # 상단 메뉴 색상
+menu_text_active = "#E3E4FA" # 메뉴카테고리 
+menu_title = "#6495ED"       # 클릭시
 
 # Home sections
-home_section_odd = "#FAF3E0"  # 상아색 (Ivory)
-home_section_even = "#B0E0E6" # 파스텔 블루 (Pastel Blue)
+home_section_odd = "#DADBDD"  # 배경1
+home_section_even = "#EEEEEE" # 배경2
 
 # Body background
-body_background = "#B0E0E6"  # 파스텔 블루 (Pastel Blue)
+body_background = "#EEEEEE"  # 파스텔 블루 (Pastel Blue)
 
 # Links (Making them more noticeable)
-link = "#6A5ACD"            # 슬레이트 블루 (Slate Blue)
-link_hover = "#8B4513"      # 매우 짙은 고동색 (Saddle Brown)
+link = "#79BAEC"            # 링크
+link_hover = "#6495ED"      # 링크클릭시
 
 [dark]
   link = "#6A5ACD"          # 슬레이트 블루 (Slate Blue)
