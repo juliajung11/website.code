@@ -21,7 +21,7 @@ home_section_even = "#EEEEEE" # 배경2
 body_background = "#EEEEEE"  # 파스텔 블루 (Pastel Blue)
 
 # Links (Making them more noticeable)
-link = "#4682B4"            # 링크
+link = "#151B54"            # 링크
 link_hover = "#6495ED"      # 링크클릭시
 
 [dark]
