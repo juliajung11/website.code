@@ -2,28 +2,28 @@
 name = "custom1"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "#030630"  # New primary color: Dark Slate Blue
+primary = "#030630"  # 매우 짙은 남색 (Dark Navy Blue)으로 메인 글자
 
 # Menu
-menu_primary = "#030630"     # Dark Charcoal for the menu bar
-menu_text = "#F9AA33"        # Saffron for menu text
-menu_text_active = "#4A6572" # Cadet Blue for active menu text
-menu_title = "#F9AA33"       # Saffron for the menu title
+menu_primary = "#030630"     # 매우 짙은 남색 (Dark Navy Blue)으로 상단 메뉴 색깔
+menu_text = "#F9AA33"        # 짙은 고동색 (Deep Brown)으로 메뉴 텍스트
+menu_text_active = "#4A6572" # 카뎃 블루 (Cadet Blue)으로 활성 메뉴 텍스트
+menu_title = "#F9AA33"       # 짙은 고동색 (Deep Brown)으로 메뉴 제목
 
 # Home sections
-home_section_odd = "#00001C"  # Cadet Blue for odd sections
-home_section_even = "#22262B" # Dark Slate Blue for even sections
+home_section_odd = "#F0EAD6"  # 상아색 (Ivory)으로 홀수 섹션
+home_section_even = "#AEC6CF" # 파스텔 블루 (Pastel Blue)으로 짝수 섹션
 
 # Body background
-body_background = "#0D1B2A"  # Dark Blue for the body background
+body_background = "#AEC6CF"  # 파스텔 블루 (Pastel Blue)으로 본문 배경
 
 # Links (Making them more noticeable)
-link = "#468FEA"            # Saffron for links
-link_hover = "#468FEA"      # Gold for link hover effect
+link = "#4A6572"            # 카뎃 블루 (Cadet Blue)으로 링크
+link_hover = "#F9AA33"      # 짙은 고동색 (Deep Brown)으로 링크 호버 효과
 
 [dark]
-  link = "#ABCDEF"          # Saffron for links in dark mode
-  link_hover = "#ABCDEF"    # Gold for hover in dark mode
+  link = "#4A6572"          # 카뎃 블루 (Cadet Blue)으로 다크 모드의 링크
+  link_hover = "#F9AA33"    # 짙은 고동색 (Deep Brown)으로 다크 모드의 링크 호버 효과
