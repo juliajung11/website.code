@@ -3,37 +3,39 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
-/* Add this at the top of your CSS file to import Google Fonts */
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-/* Apply the fonts to your body and other elements */
+/* Apply the font to the body and other elements */
 body {
     font-family: 'Roboto', sans-serif;
+    color: #FFFFFF; /* Adjust the color if needed */
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
-    font-weight: 700; /* Use bold for headings */
-}
-
-p, a, li, span {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400; /* Use regular weight for body text */
-}
-
-/* Additional styles to match the provided image */
-.header, .menu, .footer {
-    font-family: 'Roboto', sans-serif;
-}
-
-/* Adjust colors and sizes if needed */
-body {
-    color: #fff; /* Example color */
-    background-color: #333; /* Example background color */
-}
-
-/* Specific classes used in your HTML structure */
-.nav-link, .button {
-    font-family: 'Roboto', sans-serif;
     font-weight: 700;
+    color: #FFFFFF; /* Adjust the color if needed */
+}
+
+p, a, li {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #FFFFFF; /* Adjust the color if needed */
+}
+
+/* Additional custom styles */
+.custom-header {
+    font-size: 2em;
+    font-weight: bold;
+    color: #E74C3C; /* Example color */
+}
+
+.custom-link {
+    color: #3498DB; /* Example color */
+    text-decoration: none;
+}
+
+.custom-link:hover {
+    text-decoration: underline;
 }
