@@ -11,7 +11,7 @@ primary = "#151B54"  # 매우 짙은 남색 (Dark Navy Blue)
 menu_primary = "#151B54"     # 상단메뉴바
 menu_text = "#E0E5E5"        # 상단 메뉴 색상
 menu_text_active = "#E3E4FA" # 메뉴카테고리 
-menu_title = "#6495ED"       # 클릭시
+menu_title = "#98AFC7"       # 클릭시
 
 # Home sections
 home_section_odd = "#DADBDD"  # 배경1
@@ -21,7 +21,7 @@ home_section_even = "#EEEEEE" # 배경2
 body_background = "#EEEEEE"  # 파스텔 블루 (Pastel Blue)
 
 # Links (Making them more noticeable)
-link = "#123456"            # 링크
+link = "#4682B4"            # 링크
 link_hover = "#6495ED"      # 링크클릭시
 
 [dark]
