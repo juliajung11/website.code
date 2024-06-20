@@ -7,7 +7,7 @@
 
 theme: custom1
 day_night: false
-font: 'Playfair Display'
+font: 'native'
 font_size: M
 # 추가할 내용
 custom_css: ["css/custom.css"]
