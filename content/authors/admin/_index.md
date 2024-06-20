@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr. Yujin J. Jung
+title: Yujin J. Jung, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Incoming Assistant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -52,9 +52,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YJuliaJung
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+   icon_pack: fas
+   link: https://scholar.google.com/citations?user=QjueJIoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/juliajung11
@@ -76,10 +76,10 @@ social:
 highlight_name: false
 --- 
 
-Dr. Yujin J. Jung is an incoming tenure-track Assistant Professor of Political Science at [Mount St. Mary's University](https://msmary.edu/), set to begin her role in the fall of 2024. Jung’s academic work is primarily centered on examining democracy and political behavior, with a methodological focus on text analysis. She has forthcoming articles in the _Journal of Asian Security and International Affairs_ and the _Journal of Public Administration in the Digital Age_. In addition, her ongoing work on populism and democracy is under review in several academic journals.
+Dr. Yujin J. Jung is an incoming tenure-track Assistant Professor of Political Science at [Mount St. Mary's University](https://msmary.edu/), set to begin her role in the fall of 2024. Dr. Jung’s academic work is primarily centered on examining democracy and political behavior, with a methodological focus on text analysis. Her articles have been published in the _Journal of Asian Security and International Affairs_ and the _Journal of Public Administration in the Digital Age_. In addition, her ongoing work on populism and democracy is under review in several academic journals.
 
-Jung's achievements have been recognized with awards in both teaching and research. She has been honored with the [GPC Excellence in Teaching Award](https://gpc.missouri.edu/resources-programs/awards/) (2024) and the Missouri Excellence in Political Science Teaching Award (2024) from the University of Missouri, underscoring her dedication to educational excellence. On the research front, she received the Robert N. Epsten Scholarship for International Studies from the [Harry S. Truman Good Neighbor Award Foundation](https://trumanaward.org/) (2022).
+Dr. Jung's achievements have been recognized with awards in both teaching and research. She has been honored with the [GPC Excellence in Teaching Award](https://gpc.missouri.edu/resources-programs/awards/) (2024) and the Missouri Excellence in Political Science Teaching Award (2024) from the University of Missouri, underscoring her dedication to educational excellence. On the research front, she received the Robert N. Epsten Scholarship for International Studies from the [Harry S. Truman Good Neighbor Award Foundation](https://trumanaward.org/) (2022).
 
-As a committed scholar, Jung serves on the Steering Committee of the [Young Scholars Initiative on Populism (OPUS)](https://populism.byu.edu/directory/yujin-julia-jung), a division within the international research network in populism studies, [Team Populism](https://populism.byu.edu/). Her previous positions include research roles at the [Institute for Euro-African Studies](http://africa.hanyang.ac.kr/eng/) and the [Nuclear Nonproliferation Education and Research Center](http://nerec.or.kr/). Jung received a Ph.D. in political science from the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. She holds a Master of International Politics and a Bachelor in Policy Studies (Summa Cum Laude) from [Hanyang University](https://www.hanyang.ac.kr/web/eng).
+As a committed scholar, Dr. Jung serves on the Steering Committee of the [Young Scholars Initiative on Populism (OPUS)](https://populism.byu.edu/directory/yujin-julia-jung), a division within the international research network in populism studies, [Team Populism](https://populism.byu.edu/). Her previous positions include research roles at the [Institute for Euro-African Studies](http://africa.hanyang.ac.kr/eng/) and the [Nuclear Nonproliferation Education and Research Center](http://nerec.or.kr/). Dr. Jung received a Ph.D. in political science from the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. She holds a Master of International Politics and a Bachelor in Policy Studies (Summa Cum Laude) from [Hanyang University](https://www.hanyang.ac.kr/web/eng).
 
-A copy of Jung's Curriculum Vitae is available for download {{< staticref "Jung_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+A copy of Dr. Jung's Curriculum Vitae is available for download {{< staticref "Jung_CV.pdf" "newtab" >}}here{{< /staticref >}}.
