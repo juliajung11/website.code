@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yujinjuliajung@gmail.com'
+  link: 'mailto:y.j.jung@msmary.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YJuliaJung
