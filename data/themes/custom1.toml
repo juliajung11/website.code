@@ -5,25 +5,25 @@ name = "custom1"
 light = true
 
 # Primary
-primary = "#030630"  # 매우 짙은 남색 (Dark Navy Blue)으로 메인 글자
+primary = "#1C1F4A"  # 매우 짙은 남색 (Dark Navy Blue)
 
 # Menu
-menu_primary = "#030630"     # 매우 짙은 남색 (Dark Navy Blue)으로 상단 메뉴 색깔
-menu_text = "#F9AA33"        # 짙은 고동색 (Deep Brown)으로 메뉴 텍스트
-menu_text_active = "#4A6572" # 카뎃 블루 (Cadet Blue)으로 활성 메뉴 텍스트
-menu_title = "#F9AA33"       # 짙은 고동색 (Deep Brown)으로 메뉴 제목
+menu_primary = "#1C1F4A"     # 매우 짙은 남색 (Dark Navy Blue)
+menu_text = "#8B4513"        # 매우 짙은 고동색 (Saddle Brown)
+menu_text_active = "#6A5ACD" # 슬레이트 블루 (Slate Blue)
+menu_title = "#8B4513"       # 매우 짙은 고동색 (Saddle Brown)
 
 # Home sections
-home_section_odd = "#F0EAD6"  # 상아색 (Ivory)으로 홀수 섹션
-home_section_even = "#AEC6CF" # 파스텔 블루 (Pastel Blue)으로 짝수 섹션
+home_section_odd = "#FAF3E0"  # 상아색 (Ivory)
+home_section_even = "#B0E0E6" # 파스텔 블루 (Pastel Blue)
 
 # Body background
-body_background = "#AEC6CF"  # 파스텔 블루 (Pastel Blue)으로 본문 배경
+body_background = "#B0E0E6"  # 파스텔 블루 (Pastel Blue)
 
 # Links (Making them more noticeable)
-link = "#4A6572"            # 카뎃 블루 (Cadet Blue)으로 링크
-link_hover = "#F9AA33"      # 짙은 고동색 (Deep Brown)으로 링크 호버 효과
+link = "#6A5ACD"            # 슬레이트 블루 (Slate Blue)
+link_hover = "#8B4513"      # 매우 짙은 고동색 (Saddle Brown)
 
 [dark]
-  link = "#4A6572"          # 카뎃 블루 (Cadet Blue)으로 다크 모드의 링크
-  link_hover = "#F9AA33"    # 짙은 고동색 (Deep Brown)으로 다크 모드의 링크 호버 효과
+  link = "#6A5ACD"          # 슬레이트 블루 (Slate Blue)
+  link_hover = "#8B4513"    # 매우 짙은 고동색 (Saddle Brown)
