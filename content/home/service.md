@@ -24,6 +24,16 @@ weight = 50
 
 
 +++
+
+### Experience 
+
++ Steering Committee of the Young Scholars Initiative on Populism (OPUS), Team Populism, 2024.
++ Researcher, Institute of Euro-African Studies, Hanyang University, August 2018 - June 2019.
++ Research Fellow, Nuclear Nonproliferation Education and Research Center, Korea Advanced Institute of Science & Technology, March 2017 - December 2017.
++ Volunteer Translator for North Korean Human Rights NGO (PSCORE) at United Nations Geneva, Mar 2017.
++ Congressional Intern, Embassy of the Republic of Korea at Washington DC, December 2013 - February 2014.
++ Intern, Voice of America, Washington DC, August 2013 - December 2013.
+
 ### Conference Discussant
 
 + Discussant for the Session of “Poster Session: Undergraduate Behavior and Methods” at the 80th Annual Conference of Midwest Political Science Association, Chicago, IL, April 13, 2023.
@@ -31,11 +41,3 @@ weight = 50
 + Chair & Discussant for the Session of “Parties, Media, and Political Communication in Comparative Perspective” at the 78th Annual Conference of Midwest Political Science Association, Virtual, April 21, 2021
 + Discussant for the Session of “China’s One Belt, One Road (OBOR) Initiatives and the Future of China-Africa Relations” at the Annual Conference of The Korean Society of Contemporary European Studies, Seoul, December 07, 2018
 
-### Leadership
-
-+ Steering Committee of the Young Scholars Initiative on Populism (OPUS), Team Populism, 2024.
-+ Writing Group Leader for Campus Writing Program, University of Missouri, January-May, 2023.
-+ Debate Judge, for Missouri Debate Union at the University of Missouri, March 2023 \& October 2022. 
-+ GPC Representative for the Graduate Association of Political Scientists (GAPS) at the University of Missouri (2020-2021 Academic Year).
-+ Volunteer Translator for North Korean Human Rights NGO (PSCORE) at United Nations Geneva, Mar 2017.
-+ Congressional Intern, Korean Embassy at the United States, Dec 2013 - Feb 2014.
