@@ -1,10 +1,27 @@
-# data/fonts/default.toml
 [fonts]
-  google_fonts = [
-    "Merriweather:wght@300;700",
-    "Montserrat:wght@200;400",
-    "Playfair Display:wght@300;600"
-  ]
+# Use Google Fonts
+google_fonts = ["Merriweather:wght@300;700", "Montserrat:wght@200;400", "Playfair Display:wght@300;600", "Computer Modern Serif:wght@300"]
 
-[css]
-  custom_css = ["css/custom.css"]
+[[fonts.font]]
+  family = "Montserrat"
+  weight = 400
+  style = "normal"
+  sources = ["https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap"]
+
+[[fonts.font]]
+  family = "Playfair Display"
+  weight = 700
+  style = "normal"
+  sources = ["https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;600&display=swap"]
+
+[[fonts.font]]
+  family = "Merriweather"
+  weight = 300
+  style = "normal"
+  sources = ["https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap"]
+
+[[fonts.font]]
+  family = "Computer Modern Serif"
+  weight = 300
+  style = "normal"
+  sources = ["https://fonts.googleapis.com/css2?family=Computer+Modern+Serif:wght@300&display=swap"]
