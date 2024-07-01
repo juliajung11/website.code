@@ -8,19 +8,19 @@ a:hover, a:visited, a:link, a:active {
 /* Apply the font to the body and other elements */
 body {
     font-family: 'Montserrat', sans-serif;
-    color: #FFFFFF; /* Adjust the color if needed */
+    color: #f4f4f4; /* Adjust the color if needed */
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
-    color: #FFFFFF; /* Adjust the color if needed */
+    color: #2C3E50; /* Adjust the color if needed */
 }
 
 p, a, li {
     font-family: 'Merriweather', serif;
     font-weight: 300;
-    color: #FFFFFF; /* Adjust the color if needed */
+    color: #2C3E50; /* Adjust the color if needed */
 }
 
 /* Additional custom styles */
