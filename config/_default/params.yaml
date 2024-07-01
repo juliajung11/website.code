@@ -4,13 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 theme: custom1
 day_night: false
 font: 'native'
 font_size: M
-# 추가할 내용
-custom_css: ["css/custom.css"]
+custom_css: ["css/custom.css"]  # 추가된 custom CSS 파일
+
 
 # SEO
 
