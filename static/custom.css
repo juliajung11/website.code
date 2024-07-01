@@ -1,22 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Montserrat:wght@200;400&family=Playfair+Display:wght@300;600&display=swap');
+/* 기존 코드에서 글씨체 변경 */
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Montserrat:wght@200;400&family=Playfair+Display:wght@300;600&display=swap');  /* Google Fonts import 추가 */
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;  /* 글씨체 변경됨 */
     color: #FFFFFF; /* Adjust the color if needed */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif;  /* 글씨체 변경됨 */
     font-weight: 700;
     color: #FFFFFF; /* Adjust the color if needed */
 }
 
 p, a, li {
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather', serif;  /* 글씨체 변경됨 */
     font-weight: 300;
     color: #FFFFFF; /* Adjust the color if needed */
 }
 
+/* Additional custom styles */
 .custom-header {
     font-size: 2em;
     font-weight: bold;
