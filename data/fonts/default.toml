@@ -1,34 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Default Fonts</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Montserrat:wght@200;400&family=Playfair+Display:wght@300;600&family=Computer+Modern+Serif:wght@300&display=swap');
+# data/fonts/default.toml
+[fonts]
+  google_fonts = [
+    "Merriweather:wght@300;700",
+    "Montserrat:wght@200;400",
+    "Playfair Display:wght@300;600"
+  ]
 
-        body {
-            font-family: 'Montserrat', sans-serif;
-        }
-
-        h1, h2, h3, h4, h5, h6 {
-            font-family: 'Playfair Display', serif;
-        }
-
-        p, a, li {
-            font-family: 'Merriweather', serif;
-        }
-    </style>
-</head>
-<body>
-    <h1>Sample Heading 1</h1>
-    <h2>Sample Heading 2</h2>
-    <h3>Sample Heading 3</h3>
-    <p>Sample paragraph text to demonstrate the font styles. This text is in Merriweather font.</p>
-    <a href="#">Sample link</a>
-    <ul>
-        <li>Sample list item 1</li>
-        <li>Sample list item 2</li>
-    </ul>
-</body>
-</html>
+[css]
+  custom_css = ["css/custom.css"]
