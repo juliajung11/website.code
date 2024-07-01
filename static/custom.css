@@ -1,26 +1,22 @@
-a:hover, a:visited, a:link, a:active {
-    text-decoration: none;
-}
-
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Montserrat:wght@200;400&family=Playfair+Display:wght@300;600&family=Computer+Modern+Serif:wght@300&display=swap');
 
 /* Apply the font to the body and other elements */
 body {
-    font-family: 'Montserrat', sans-serif;
-    color: #f4f4f4; /* Adjust the color if needed */
+    font-family: 'Montserrat', sans-serif; /* 글씨체 변경됨 */
+    color: #FFFFFF; /* Adjust the color if needed */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif; /* 글씨체 변경됨 */
     font-weight: 700;
-    color: #2C3E50; /* Adjust the color if needed */
+    color: #FFFFFF; /* Adjust the color if needed */
 }
 
 p, a, li {
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather', serif; /* 글씨체 변경됨 */
     font-weight: 300;
-    color: #2C3E50; /* Adjust the color if needed */
+    color: #FFFFFF; /* Adjust the color if needed */
 }
 
 /* Additional custom styles */
