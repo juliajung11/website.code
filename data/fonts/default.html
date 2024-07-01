@@ -3,29 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Font Setup</title>
+    <title>Default Fonts</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Montserrat:wght@200;400&family=Playfair+Display:wght@300;600&family=Computer+Modern+Serif:wght@300&display=swap');
 
         body {
-            font-family: 'Montserrat', sans-serif; /* 기본 글씨체 변경 */
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #2C3E50;
+            color: #f4f4f4;
         }
-
         h1, h2, h3, h4, h5, h6 {
-            font-family: 'Playfair Display', serif; /* 제목 글씨체 변경 */
+            font-family: 'Playfair Display', serif;
+            font-weight: 700;
+            color: #f4f4f4;
         }
-
         p, a, li {
-            font-family: 'Merriweather', serif; /* 본문 글씨체 변경 */
+            font-family: 'Merriweather', serif;
+            font-weight: 300;
+            color: #f4f4f4;
+        }
+        .navbar a {
+            font-family: 'Playfair Display', serif;
+        }
+        .header p {
+            font-family: 'Merriweather', serif;
+        }
+        .section h2 {
+            font-family: 'Playfair Display', serif;
+        }
+        .section h3 {
+            font-family: 'Merriweather', serif;
+        }
+        .section ul li, .section p, .section div {
+            font-family: 'Merriweather', serif;
         }
     </style>
 </head>
 <body>
-    <h1>Header Example</h1>
-    <p>Paragraph example with the chosen font.</p>
-    <a href="#">Link example</a>
+    <h1>Sample Heading 1</h1>
+    <h2>Sample Heading 2</h2>
+    <h3>Sample Heading 3</h3>
+    <p>Sample paragraph text to demonstrate the font styles. This text is in Merriweather font.</p>
+    <a href="#">Sample link</a>
     <ul>
-        <li>List item example</li>
+        <li>Sample list item 1</li>
+        <li>Sample list item 2</li>
     </ul>
 </body>
 </html>
